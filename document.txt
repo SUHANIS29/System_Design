@@ -1,0 +1,3 @@
+Text: Hello, World!
+Image: path/to/image.jpg
+
